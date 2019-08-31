@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Records>
+	<User>
+		<username>abc@abc.com</username>
+		<password>12345</password>
+		<userType>1</userType>
+	</User>
+	<User>
+		<username>jzjonathanzz@gmail.com</username>
+		<password>2632026</password>
+		<userType>2</userType>
+	</User>
+	<User>
+		<username>ada@dad.com</username>
+		<password>12345</password>
+		<userType>1</userType>
+	</User>
+	<User>
+		<username>123</username>
+		<password>123456</password>
+		<userType>3</userType>
+	</User>
+	<User>
+		<username>abc123@bcd123.com</username>
+		<password>54321</password>
+		<userType>1</userType>
+	</User>
+	<User>
+		<username>123</username>
+		<password>123457</password>
+		<userType>3</userType>
+	</User>
+</Records>

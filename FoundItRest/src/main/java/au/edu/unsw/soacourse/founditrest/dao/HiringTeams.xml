@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HiringTeams>
+	<HiringTeam>
+		<id>001</id>
+		<Members>
+			<Reviewer>
+				<id>01</id>
+				<password>123456</password>
+				<skills>This is skill 1</skills>
+				<appIds>
+					<appId>1</appId>
+					<appId>5</appId>
+					<appId>6</appId>
+					<appId>47</appId>
+					<appId>31</appId>
+					<appId>22</appId>
+				</appIds>
+			</Reviewer>
+			<Reviewer>
+				<id>02</id>
+				<password>123456</password>
+				<skills>This is skill 2</skills>
+				<appIds>
+					<appId>1</appId>
+					<appId>5</appId>
+					<appId>6</appId>
+					<appId>47</appId>
+					<appId>31</appId>
+					<appId>22</appId>
+				</appIds>
+			</Reviewer>
+			<Reviewer>
+				<id>03</id>
+				<password>123456</password>
+				<skills>This is skill 3</skills>
+				<appIds>
+					<appId>1</appId>
+					<appId>5</appId>
+					<appId>6</appId>
+					<appId>47</appId>
+					<appId>31</appId>
+					<appId>22</appId>
+				</appIds>
+			</Reviewer>
+			<Reviewer>
+				<id>04</id>
+				<password>123456</password>
+				<skills>This is skill 4</skills>
+				<appIds>
+					<appId>1</appId>
+					<appId>5</appId>
+					<appId>6</appId>
+					<appId>47</appId>
+					<appId>31</appId>
+					<appId>22</appId>
+				</appIds>
+			</Reviewer>
+		</Members>
+	</HiringTeam>
+	<HiringTeam>
+		<id>002</id>
+		<Members>
+			<Reviewer>
+				<id>05</id>
+				<password>123456</password>
+				<skills>This is skill 5</skills>
+				<appIds></appIds>
+			</Reviewer>
+			<Reviewer>
+				<id>06</id>
+				<password>123456</password>
+				<skills>This is skill 6</skills>
+			</Reviewer>
+			<Reviewer>
+				<id>07</id>
+				<password>123456</password>
+				<skills>This is skill 7</skills>
+				<appIds></appIds>
+			</Reviewer>
+			<Reviewer>
+				<id>08</id>
+				<password>123456</password>
+				<skills>This is skill 8</skills>
+				<appIds></appIds>
+			</Reviewer>
+			<Reviewer>
+				<id>09</id>
+				<password>123456</password>
+				<skills>This is skill 9</skills>
+				<appIds></appIds>
+			</Reviewer>
+		</Members>
+	</HiringTeam>
+</HiringTeams>

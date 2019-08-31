@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Users>
+	<User>
+		<email>nima_nishad123@gmail.com</email>
+		<detail>
+			<lastName>Nima</lastName>
+			<firstName>Nishad</firstName>
+			<address>8/12 Maroubra Road NSW Austrilia</address>
+			<dlNumber>1234-5765-1920-2448</dlNumber>
+		</detail>
+		<skills>Ajax, Node.js, Java, Mysql,etc.</skills>
+		<experience>Working in Microsoft as a java developer for 2 years.
+		</experience>
+		<education>Phd, The University of Sydney, Major in Computer Science.
+		</education>
+	</User>
+	<User>
+		<email>djdjiloveu@yahoo.com.au</email>
+		<detail>
+			<lastName>Jones</lastName>
+			<firstName>David</firstName>
+			<address>1/11 Anzac Parade NSW Austrilia</address>
+			<dlNumber>9654-2515-9462-4485</dlNumber>
+
+		</detail>
+		<skills>This is skill 2.</skills>
+		<experience>Expericence 2.</experience>
+		<education>Education 2.</education>
+	</User>
+	<User>
+		<email>james19891212@gmail.com</email>
+		<detail>
+			<lastName>James</lastName>
+			<firstName>Labron</firstName>
+			<address>7/11 Central Avenue NY USA</address>
+			<dlNumber>0644-5454-4464-6223</dlNumber>
+
+		</detail>
+		<skills>This is skill 3.</skills>
+		<experience>Expericence 3.</experience>
+		<education>Education 3.</education>
+	</User>
+</Users>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Companies>
+	<Company>
+		<id>001</id>
+		<name>Name1</name>
+		<industry>Industry1</industry>
+		<description>Description1</description>
+		<website>Website1</website>
+		<location>Location1</location>
+	</Company>
+	<Company>
+		<id>002</id>
+		<name>Name2</name>
+		<industry>Industry2</industry>
+		<description>Description2</description>
+		<website>Website2</website>
+		<location>Location2</location>
+	</Company>
+	<Company>
+		<id>003</id>
+		<name>Name3</name>
+		<industry>Industry3</industry>
+		<description>Description3</description>
+		<website>Website3</website>
+		<location>Location3</location>
+	</Company>
+</Companies>

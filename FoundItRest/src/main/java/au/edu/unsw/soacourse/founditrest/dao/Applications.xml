@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Applications>
+	<Application>
+		<id>001</id>
+		<candidateId>001</candidateId>
+		<applyJobId>001</applyJobId>
+		<coverLetter>This is conver letter 1</coverLetter>
+		<status>open</status>
+	</Application>
+	<Application>
+		<id>002</id>
+		<candidateId>002</candidateId>
+		<applyJobId>002</applyJobId>
+		<coverLetter>This is conver letter 2</coverLetter>
+		<status>close</status>
+	</Application>
+	<Application>
+		<id>003</id>
+		<candidateId>003</candidateId>
+		<applyJobId>003</applyJobId>
+		<coverLetter>This is conver letter 3</coverLetter>
+		<status>processing</status>
+	</Application>
+	<Application>
+		<id>004</id>
+		<candidateId>004</candidateId>
+		<applyJobId>004</applyJobId>
+		<coverLetter>This is conver letter 4</coverLetter>
+		<status>open</status>
+	</Application>
+</Applications>

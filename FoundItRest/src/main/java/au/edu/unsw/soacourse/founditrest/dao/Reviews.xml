@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Reviews>
+	<Review>
+		<id>001</id>
+		<appId>001</appId>
+		<uId>02</uId>
+		<comments>Comments 1</comments>
+		<decision>Y</decision>
+	</Review>
+	<Review>
+		<id>002</id>
+		<appId>002</appId>
+		<uId>01</uId>
+		<comments>Comments 2</comments>
+		<decision>N</decision>
+	</Review>
+
+	<Review>
+		<id>003</id>
+		<appId>003</appId>
+		<uId>03</uId>
+		<comments>Comments 3</comments>
+		<decision>Y</decision>
+	</Review>
+	<Review>
+		<id>004</id>
+		<appId>002</appId>
+		<uId>04</uId>
+		<comments>Comments 4</comments>
+		<decision>N</decision>
+	</Review>
+	<Review>
+		<id>005</id>
+		<appId>005</appId>
+		<uId>02</uId>
+		<comments>Comments 5</comments>
+		<decision>Y</decision>
+	</Review>
+	<Review>
+		<id>006</id>
+		<appId>003</appId>
+		<uId>08</uId>
+		<comments>Comments 6</comments>
+		<decision>Y</decision>
+	</Review>
+</Reviews>
