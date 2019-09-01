@@ -22,9 +22,9 @@ Give examples
 ##### Development Environment
 ```
 Windows 10 Home 64bit
-Visual Studio Professional 2017
-Microsoft SQL Server 2017
-Google Chrome Version 76.0
+Eclipse Mars
+Apache Maven 3.41
+Apache Tomcat 8.0
 ```
 
 ##### Environment Setup
@@ -34,29 +34,17 @@ Install References through Nuget Package
 ```
 Install-Package EntityFramework
 ```
-Use EntityFramework Code First method to create Database tables through exsiting Model files
-Add migrations to Database
-```
-Enable-Migrations
-Add-Migration 0001
-Update-Database -Verbose
-```
-Install Dynamic Linq package
-```
-Install-Package System.Linq.Dynamic
-```
-Install PagedList for MVC via NuGet
-```
-Install-Package PagedList.mvc
-```
+
 ### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-
-End with an example of getting some data out of the system or using it for a little demo
+- Download and Install Apache Maven
+- Install Java EE plugin into Eclipse
+- Import FoundItRest and FoundItApp into Eclispe
+- Add Maven dependency to two projects by 
+  right click project->Properties->Deployment Assessment->Add->Java Path Entry->Maven dependency
+- Install and setup Apache Tomcat
+- Add two Servers with different port (e.g. 8080 and 8090)
+- Edit REST_URI at FoundItApp controller files to meet correct URL of RESTFul service 
+- Run two projects at different server
 
 ## Deployment
 
