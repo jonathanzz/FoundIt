@@ -19,6 +19,7 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 Windows 10 Home 64bit
 Eclipse Mars
+JDK 1.80
 Apache Maven 3.41
 Apache Tomcat 8.0
 ```
