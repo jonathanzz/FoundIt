@@ -1,6 +1,7 @@
 # FoundIt
 
 FoundIt is a fully-functional HR system, by using Maven based RESTFul Web Service, and xml & xslt 2.0 as database instead of traditional RDB., as well as a corresponding client web application for connecting the web service interfaces to realize the functions of website. 
+
 Representational State Transfer (REST) is a software architectural style that defines a set of constraints to be used for creating Web services. Other web application can access and manage their resouces by just using http request(GET POST PUT DELETE) to specific URL.
 
 ### Function detail
